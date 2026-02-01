@@ -10,3 +10,6 @@ Console.WriteLine($"이름 : {person2.Name} / 나이 : {person2.Age}");
 /*주석추가*/
 
 Console.WriteLine($"이름 : {person2.Name} / 나이 : {person2.Age}");
+
+Person person3 = new Person { PersonId = 3, Name = "박지성", Age = 40 };
+
