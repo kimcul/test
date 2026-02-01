@@ -1,0 +1,15 @@
+D:\study\GitTest\TestConsoleApp\bin\Debug\net9.0\TestConsoleApp.exe
+D:\study\GitTest\TestConsoleApp\bin\Debug\net9.0\TestConsoleApp.deps.json
+D:\study\GitTest\TestConsoleApp\bin\Debug\net9.0\TestConsoleApp.runtimeconfig.json
+D:\study\GitTest\TestConsoleApp\bin\Debug\net9.0\TestConsoleApp.dll
+D:\study\GitTest\TestConsoleApp\bin\Debug\net9.0\TestConsoleApp.pdb
+D:\study\GitTest\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\GitTest\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.AssemblyInfoInputs.cache
+D:\study\GitTest\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.AssemblyInfo.cs
+D:\study\GitTest\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+D:\study\GitTest\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.sourcelink.json
+D:\study\GitTest\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.dll
+D:\study\GitTest\TestConsoleApp\obj\Debug\net9.0\refint\TestConsoleApp.dll
+D:\study\GitTest\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.pdb
+D:\study\GitTest\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.genruntimeconfig.cache
+D:\study\GitTest\TestConsoleApp\obj\Debug\net9.0\ref\TestConsoleApp.dll
